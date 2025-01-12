@@ -1,0 +1,44 @@
+From City Real Name,To City Real Name,Cost,Time (hours),Overlay Time (hours),Airway Line Real Name
+Delhi,Mumbai,200,2,0,Air India
+Delhi,Bangalore,300,3,0,IndiGo
+Delhi,Dubai,350,4,0,Emirates
+Delhi,Sydney,500,11,2,Air India
+Delhi,London,1000,9,1,British Airways
+Mumbai,Bangalore,250,2.5,0,SpiceJet
+Mumbai,New York,700,15,3,United Airlines
+Mumbai,London,600,9,1,British Airways
+Bangalore,New York,750,16,3,Delta Airlines
+Bangalore,Sydney,550,10,2,Qantas Airways
+Bangalore,Dubai,400,6,1,IndiGo
+New York,Los Angeles,350,5,0,American Airlines
+New York,Chicago,300,3,0,United Airlines
+New York,London,550,7,1,Delta Airlines
+Los Angeles,Chicago,250,4,0,Delta Airlines
+Los Angeles,London,600,10,2,American Airlines
+Los Angeles,Sydney,800,13,2,Qantas Airways
+London,Manchester,100,1,0,British Airways
+London,Liverpool,120,1.5,0,EasyJet
+London,New York,550,7,1,Delta Airlines
+Manchester,Liverpool,30,0.5,0,Flybe
+Manchester,Sydney,800,15,3,British Airways
+Liverpool,Sydney,750,14,3,Jetstar Airways
+Melbourne,Sydney,150,1.5,0,Qantas Airways
+Melbourne,Brisbane,180,2,0,Virgin Australia
+Melbourne,London,750,14,2,Emirates
+Sydney,Brisbane,200,2.5,0,Jetstar Airways
+Sydney,New York,800,16,3,Qantas Airways
+Sydney,Los Angeles,800,13,2,Qantas Airways
+Auckland,Wellington,80,1,0,Air New Zealand
+Auckland,Christchurch,150,1.5,0,Jetstar Airways
+Wellington,Christchurch,70,1,0,Air New Zealand
+Auckland,Sydney,400,3,1,Air New Zealand
+Christchurch,Sydney,450,3.5,1,Jetstar Airways
+Singapore,New York,500,20,2,Delta Airlines
+Singapore,London,550,14,2,Singapore Airlines
+Singapore,Los Angeles,600,18,2,Emirates
+Dubai,New York,450,18,2,Emirates
+Dubai,London,550,8,1,Emirates
+Dubai,Sydney,700,14,2,Emirates
+Dubai,Bangalore,400,6,1,IndiGo
+Dubai,Mumbai,350,4,0,Emirates
+Dubai,Manchester,500,7,1,Flydubai
